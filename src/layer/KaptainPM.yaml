@@ -1,0 +1,13 @@
+apiVersion: kaptain.org/1.7
+kind: layer-and-layerset-build
+metadata:
+  description: "Common build settings for layer and layerset projects"
+
+spec:
+  main:
+    docker:
+      platform: linux/amd64,linux/arm64
+  global:
+    release:
+      versioning:
+        maxParts: '2'
