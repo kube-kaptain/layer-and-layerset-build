@@ -5,4 +5,4 @@ metadata:
 
 spec:
   layers:
-    - layer-and-layerset-build:[1.1,2.0)
+    - layer-and-layerset-build:[1.2,2.0)
