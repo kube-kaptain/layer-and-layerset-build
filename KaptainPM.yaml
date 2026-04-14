@@ -1,4 +1,4 @@
-apiVersion: kaptain.org/1.10
+apiVersion: kaptain.org/1.11
 kind: layer-and-layerset-build
 metadata:
   description: "Common build settings for layer and layerset projects"
